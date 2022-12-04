@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <h4>😄 We're making the world a better place.</h3>
   <h4>🤔 Through constructing elegant hierarchies for maximum code reuse and extensibility.
   <h4>👯 I started too late, but it's not too late. </h3>
-  <h4>📫 Spring and autumn fruits, efforts will be fruitful, a poor student is quietly transforming...</h3?
-  <h4>💬</h3>
+  <h4>📫 Spring and autumn fruits, efforts will be fruitful, a poor student is quietly transforming...</h3>
+  <h4>💬</h4>
 </div>
 <div align="center">
   <img src="https://metrics.lecoq.io/student-ice?template=classic&config.timezone=Asia%2FShanghai">
