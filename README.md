@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div >
   <h3>I'm ice.</h3>
   <h3>A college student majoring in computer science. </h3>
   <h3>Currently learning C++ and Qt</h3>
