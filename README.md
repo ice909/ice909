@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <div >
   <h3>I'm ice.</h3>
-  <h3>A college student majoring in computer science. </h3>
-  <h3>Currently learning C++ and Qt</h3>
-  <h3>The current operating system is Deepin</h3>
-  <h3>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</h3>
-  <h3>I started too late, but it's not too late. Spring and autumn fruits, efforts will be fruitful, a poor student is quietly transforming...</h3>
+  <h3>🔭 A college student majoring in computer science. </h3>
+  <h3>🌱 Currently learning C++ and Qt</h3>
+  <h3>⚡ The current operating system is <a href="https://www.deepin.org">Deepin</a></h3>
+  <h3>🤔 We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</h3>
+  <h3>⚡ I started too late, but it's not too late. Spring and autumn fruits, efforts will be fruitful, a poor student is quietly transforming...</h3>
 </div>
 <div align="center">
   <img src="https://metrics.lecoq.io/student-ice?template=classic&config.timezone=Asia%2FShanghai">
