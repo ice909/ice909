@@ -25,9 +25,7 @@ Here are some ideas to get you started:
   <h4>📫  Spring and autumn fruits, efforts will be fruitful, a poor student is quietly transforming...</h3>
   <h4>💬</h4>
 </div>
-<div >
-  <img src="https://metrics.lecoq.io/student-ice?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+
 <div >  
   <span > 
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
