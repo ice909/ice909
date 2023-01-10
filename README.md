@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div >
-  <h4>✨  I'm ice.</h3>
-  <h4>🔭  A college student majoring in computer science. </h3>
-  <h4>🌱  Currently learning C++ and Qt</h3>
-  <h4>⚡  The current operating system is <a href="https://www.deepin.org">Deepin</a></h3>
-  <h4>😄  We're making the world a better place.</h3>
-  <h4>🤔  Through constructing elegant hierarchies for maximum code reuse and extensibility.
-  <h4>👯  I started too late, but it's not too late. </h3>
-  <h4>📫  Spring and autumn fruits, efforts will be fruitful, a poor student is quietly transforming...</h3>
+  
+  <h4>🔭  I'm a college student majoring in computer science. </h4>
+  <h4>🌱  Currently learning C++ and Qt</h4>
+  <h4>⚡  The current operating system is <a href="https://www.deepin.org">Deepin</a></h4>
+  <h4>😄  We're making the world a better place.</h4>
+  <h4>🤔  Through constructing elegant hierarchies for maximum code reuse and extensibility.</h4>
+  <h4>👯  I started too late, but it's not too late. </h4>
+  <h4>📫  Spring and autumn fruits, efforts will be fruitful, a poor student is quietly transforming...</h4>
   <h4>💬</h4>
 </div>
 
