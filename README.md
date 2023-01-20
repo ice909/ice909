@@ -29,8 +29,12 @@ Here are some ideas to get you started:
 
 <div > 
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=student-ice&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-ice)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=student-ice&theme=xcode" />
+  
+  
+</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-ice)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=student-ice&theme=xcode" />  
 </div>
 
 <div>
