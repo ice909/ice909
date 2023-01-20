@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div > 
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=student-ice&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=student-ice&theme=xcode" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=student-ice&theme=xcode" />
 </div>
 
 <div>
