@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <div > 
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=student-ice&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=student-ice&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
 </div>
 
 <div>
