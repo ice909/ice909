@@ -36,3 +36,6 @@ Here are some ideas to get you started:
   <img alt="C" src="https://img.shields.io/badge/-C/C++-DAE8FC?style=flat-square&logo=c" />
 </div>  
 
+<div align="left"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=student-ice" />
+</div>
