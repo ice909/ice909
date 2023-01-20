@@ -28,13 +28,15 @@ Here are some ideas to get you started:
 
 
 <div > 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=student-ice&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=student-ice&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
 </div>
 
 <div>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-F9A03C?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C/C++-DAE8FC?style=flat-square&logo=c" />
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=student-ice" />
 
 </div>  
