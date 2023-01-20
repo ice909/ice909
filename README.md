@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img herf=""www.qt.io alt="Qt" src="https://img.shields.io/badge/-Qt-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/-Qt-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 </div>  
 
