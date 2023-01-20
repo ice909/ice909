@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div > 
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=student-ice&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-ice&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-ice&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   
 </div>
 
