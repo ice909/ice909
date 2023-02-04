@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 
 <div > 
-  <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=student-ice&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
-  <img height="160px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-ice&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=student-ice&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
+  <img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-ice&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   
 </div>
 
