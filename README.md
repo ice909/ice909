@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<!--
 <div>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=student-ice&theme=xcode" />  
 </div>
-
+-->
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-F9A03C?style=flat-square&logo=linux&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" />
