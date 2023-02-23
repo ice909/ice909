@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div >
   
   <h4>🔭  I'm a college student majoring in computer science. </h4>
@@ -21,11 +22,11 @@ Here are some ideas to get you started:
 </div>
 
 
-<!--
+
 <div>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=student-ice&theme=xcode" />  
 </div>
--->
+
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-F9A03C?style=flat-square&logo=linux&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" />
@@ -35,5 +36,5 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.glitch.me/badge?page_id=student-ice" />
 
 </div>  
-
+-->
 
