@@ -1,4 +1,4 @@
-<h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;"> </a> </h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;"> </a>
 
 <!--
 **student-ice/student-ice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
