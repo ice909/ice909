@@ -8,7 +8,3 @@
 - 💬 Ask me about my experience with Java programming, web development, or any computer science-related topics.
 - 📫 How to reach me:You can contact me by [email](mailto:Tonimayloneya@gmail.com).
 - ⚡ Fun fact: I love exploring new technologies in my free time.
-
-### Languages and Tools:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student-ice&layout=compact)
