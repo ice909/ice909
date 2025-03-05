@@ -1,11 +1,12 @@
-### Hi there, I'm ice 👋
+### Hi, I'm Ice! 👋
+- 🎓 Computer Science Student | Passionate about coding and building things.
 
-- 😄 Pronouns: He/Him
-- 😁 I'm a computer science student.
-- 🌱 I’m currently learning JavaEE and Vue.js.
-- 🤔 I am looking for help in understanding the advanced concepts and best practices of JavaWeb and Vue.js.
-- 💬 Ask me about my experience with Java programming, web development, or any computer science-related topics.
-- 📫 How to reach me:You can contact me by [email](mailto:Tonimayloneya@gmail.com).
-- ⚡ Fun fact: I love exploring new technologies in my free time.
+- 🌱 Currently Learning: Web Development, C++, and Qt.
+
+- 💡 Interested In: Exploring advanced concepts in Web Development, C++ programming, and Qt framework.
+
+- 🛠 Skills: C++, Web Development (HTML/CSS/JavaScript), and basic Qt.
+
+- ⚡ Fun Fact: I love diving into new technologies and tools in my free time.
 
 ![](https://komarev.com/ghpvc/?username=student-ice) 
