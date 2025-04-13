@@ -22,6 +22,8 @@
 
 - Open source contributor
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ice909&layout=donut)](https://github.com/ice909/ice909)
+
 > *"Simplicity is the ultimate sophistication."*  
 > — **Leonardo da Vinci**
 
