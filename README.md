@@ -1,12 +1,28 @@
-### Hi, I'm Ice! 👋
-- 🎓 Computer Science Student | Passionate about coding and building things.
+## 🔧 Technical Focus
+- Currently Mastering: Modern C++ • Qt Framework • Full-stack Web Development
 
-- 🌱 Currently Learning: Web Development, C++, and Qt.
+- Core Skills:
 
-- 💡 Interested In: Exploring advanced concepts in Web Development, C++ programming, and Qt framework.
+  - C++ (STL, OOP)
 
-- 🛠 Skills: C++, Web Development (HTML/CSS/JavaScript), and basic Qt.
+  - Web Technologies (HTML5, CSS3, JavaScript ES6+，Vue, Taro, Nuxt.js)
 
-- ⚡ Fun Fact: I love diving into new technologies and tools in my free time.
+  - Cross-platform Development with Qt
+
+- Exploring: Advanced Qt/QML patterns • WebAssembly • Performance Optimization
+
+## � Projects & Interests
+- Building responsive UIs with Qt Widgets/QML
+
+- Web development with Vue learning path
+
+
+## 🌟 Beyond Code
+- Continuous learner with 20+ completed tech courses
+
+- Open source contributor
+
+> *"Simplicity is the ultimate sophistication."*  
+> — **Leonardo da Vinci**
 
 ![](https://komarev.com/ghpvc/?username=student-ice) 
